@@ -5,3 +5,8 @@ West Caldwell, NJ. Homepage only. Inner pages are not part of this preview and t
 links are inert.
 
 Built by Infintech Designs. Photographs are ARD's own.
+
+## Inner pages
+
+`pages.html` previews the inner pages in the picked direction (service, area, all services,
+service areas, about, reviews, contact, blog, blog post). Use the page switcher at the top.
