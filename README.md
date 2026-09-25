@@ -1,12 +1,10 @@
-# ARD Waterproofing, homepage redesign preview
+# ARD Waterproofing, full site preview
 
-Static preview of the approved homepage direction (option C) for ARD Waterproofing,
-West Caldwell, NJ. Homepage only. Inner pages are not part of this preview and their
-links are inert.
+Static preview of the complete ARD Waterproofing site (West Caldwell, NJ) on the approved
+design: homepage direction C (approved 2026-09-23) and the inner-page templates picked
+2026-09-24. 80 pages: 12 services, 10 service areas, 25 service-in-town pages, services and
+service-area indexes, About, Reviews, Contact, Gallery, Blog with all 21 posts, and 4 legal pages.
 
-Built by Infintech Designs. Photographs are ARD's own.
+`pages.html` lists every page. Page paths mirror the live site's URLs.
 
-## Inner pages
-
-`pages.html` previews the inner pages in the picked direction (service, area, all services,
-service areas, about, reviews, contact, blog, blog post). Use the page switcher at the top.
+Built by Infintech Designs. Photographs are ARD's own. Not indexed (noindex on every page).
