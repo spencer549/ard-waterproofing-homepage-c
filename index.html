@@ -1056,6 +1056,10 @@ html[data-motion="force"] #design-c .hero .pbg{animation:pdrift 30s var(--ease-i
   #design-c .step{flex-direction:column;gap:8px}
 }
 
+
+/* the mega menu opened on hover but sat 12px below its button, so moving the pointer down to a
+   link crossed empty space and closed it. An invisible bridge keeps the hover alive. */
+.design .has-mega .mega::before{content:'';position:absolute;left:0;right:0;top:-24px;height:24px}
 </style>
 
 <style>
